@@ -1,0 +1,15 @@
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\bin\Debug\net6.0\CSharp-TestProgram.exe
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\bin\Debug\net6.0\CSharp-TestProgram.deps.json
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\bin\Debug\net6.0\CSharp-TestProgram.runtimeconfig.json
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\bin\Debug\net6.0\CSharp-TestProgram.dll
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\bin\Debug\net6.0\CSharp-TestProgram.pdb
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\obj\Debug\net6.0\CSharp-TestProgram.csproj.AssemblyReference.cache
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\obj\Debug\net6.0\CSharp-TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\obj\Debug\net6.0\CSharp-TestProgram.AssemblyInfoInputs.cache
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\obj\Debug\net6.0\CSharp-TestProgram.AssemblyInfo.cs
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\obj\Debug\net6.0\CSharp-TestProgram.csproj.CoreCompileInputs.cache
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\obj\Debug\net6.0\CSharp-TestProgram.dll
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\obj\Debug\net6.0\refint\CSharp-TestProgram.dll
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\obj\Debug\net6.0\CSharp-TestProgram.pdb
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\obj\Debug\net6.0\CSharp-TestProgram.genruntimeconfig.cache
+C:\C# Projects\CSharp-TestProgram\CSharp-TestProgram\obj\Debug\net6.0\ref\CSharp-TestProgram.dll
